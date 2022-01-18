@@ -1,0 +1,34 @@
+.links {
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+    display: inline;
+    
+}
+
+.links:hover {
+   text-decoration: underline;
+}
+
+#myNavbar {
+    background-color: gray;
+}
+
+body {
+    background-color: skyblue;
+}
+
+#marqueeStyle {
+    background-color: gray;
+}
+
+#img1 {
+    height: 600;
+    width: 600;
+}
+
+#img2 {
+    height: 400;
+    width: 400;
+}
